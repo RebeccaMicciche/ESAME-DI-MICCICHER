@@ -1,0 +1,41 @@
+body div.h1princ{
+    color: white;
+    font-family: 'Caveat Brush';
+    text-align: center;
+    margin-left: 55%;
+    text-shadow: -2px 0 #000000;
+    font-size: larger;
+}
+
+body{
+    background-color: #e8be6c;
+}
+
+body div.minicolazioni{
+    color: white;
+    font-family: 'Caveat Brush';
+    font-size: large;
+    text-shadow: -2px 0 #000000;
+}
+
+body div.info{
+    color: black;
+    font-family: 'Caveat Brush';
+    line-height: 0%;
+    text-align: right;
+}
+
+p{
+    color: #000000;
+    font-family: 'Aleo';
+    background-color: #bc883d;
+    font-weight: bold;
+}
+
+div.immagini{
+    text-align: right;
+    margin-right: 7%;
+}
+
+
+
